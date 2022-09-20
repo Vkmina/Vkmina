@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Programming tools in data science
 - 👯 I’m looking to collaborate on project which raise my interest
 - 🤔 I’m looking for help with code
-- 📫 How to reach me: 
+- 📫 Reach me out on my linkedin profil: 
